@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atvd 2 - CalcSimples", "Atvd 2 - CalcSimples\Atvd 2 - CalcSimples.csproj", "{235CAA37-9435-4EE8-998B-81A44B6A67BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{235CAA37-9435-4EE8-998B-81A44B6A67BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{235CAA37-9435-4EE8-998B-81A44B6A67BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{235CAA37-9435-4EE8-998B-81A44B6A67BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{235CAA37-9435-4EE8-998B-81A44B6A67BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C43572DF-0E2F-4187-948D-787B0698A61F}
+	EndGlobalSection
+EndGlobal
