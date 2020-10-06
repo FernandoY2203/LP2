@@ -1,0 +1,10 @@
+C:\Users\Fernando Yuji\source\repos\Atvd1\Atvd1\bin\Debug\Atvd1.exe.config
+C:\Users\Fernando Yuji\source\repos\Atvd1\Atvd1\bin\Debug\Atvd1.exe
+C:\Users\Fernando Yuji\source\repos\Atvd1\Atvd1\bin\Debug\Atvd1.pdb
+C:\Users\Fernando Yuji\source\repos\Atvd1\Atvd1\obj\Debug\Atvd1.csprojAssemblyReference.cache
+C:\Users\Fernando Yuji\source\repos\Atvd1\Atvd1\obj\Debug\Atvd1.Form1.resources
+C:\Users\Fernando Yuji\source\repos\Atvd1\Atvd1\obj\Debug\Atvd1.Properties.Resources.resources
+C:\Users\Fernando Yuji\source\repos\Atvd1\Atvd1\obj\Debug\Atvd1.csproj.GenerateResource.cache
+C:\Users\Fernando Yuji\source\repos\Atvd1\Atvd1\obj\Debug\Atvd1.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Yuji\source\repos\Atvd1\Atvd1\obj\Debug\Atvd1.exe
+C:\Users\Fernando Yuji\source\repos\Atvd1\Atvd1\obj\Debug\Atvd1.pdb
