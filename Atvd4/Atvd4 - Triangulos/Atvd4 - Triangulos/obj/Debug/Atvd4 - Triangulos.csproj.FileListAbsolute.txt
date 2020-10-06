@@ -1,0 +1,10 @@
+C:\Users\Fernando Yuji\source\repos\Atvd4 - Triangulos\Atvd4 - Triangulos\bin\Debug\Atvd4 - Triangulos.exe.config
+C:\Users\Fernando Yuji\source\repos\Atvd4 - Triangulos\Atvd4 - Triangulos\bin\Debug\Atvd4 - Triangulos.exe
+C:\Users\Fernando Yuji\source\repos\Atvd4 - Triangulos\Atvd4 - Triangulos\bin\Debug\Atvd4 - Triangulos.pdb
+C:\Users\Fernando Yuji\source\repos\Atvd4 - Triangulos\Atvd4 - Triangulos\obj\Debug\Atvd4 - Triangulos.csprojAssemblyReference.cache
+C:\Users\Fernando Yuji\source\repos\Atvd4 - Triangulos\Atvd4 - Triangulos\obj\Debug\Atvd4___Triangulos.Form1.resources
+C:\Users\Fernando Yuji\source\repos\Atvd4 - Triangulos\Atvd4 - Triangulos\obj\Debug\Atvd4___Triangulos.Properties.Resources.resources
+C:\Users\Fernando Yuji\source\repos\Atvd4 - Triangulos\Atvd4 - Triangulos\obj\Debug\Atvd4 - Triangulos.csproj.GenerateResource.cache
+C:\Users\Fernando Yuji\source\repos\Atvd4 - Triangulos\Atvd4 - Triangulos\obj\Debug\Atvd4 - Triangulos.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Yuji\source\repos\Atvd4 - Triangulos\Atvd4 - Triangulos\obj\Debug\Atvd4 - Triangulos.exe
+C:\Users\Fernando Yuji\source\repos\Atvd4 - Triangulos\Atvd4 - Triangulos\obj\Debug\Atvd4 - Triangulos.pdb
