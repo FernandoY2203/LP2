@@ -1,0 +1,10 @@
+C:\Users\Fernando Yuji\source\repos\Atvd 2 - CalcSimples\Atvd 2 - CalcSimples\bin\Debug\Atvd 2 - CalcSimples.exe.config
+C:\Users\Fernando Yuji\source\repos\Atvd 2 - CalcSimples\Atvd 2 - CalcSimples\bin\Debug\Atvd 2 - CalcSimples.exe
+C:\Users\Fernando Yuji\source\repos\Atvd 2 - CalcSimples\Atvd 2 - CalcSimples\bin\Debug\Atvd 2 - CalcSimples.pdb
+C:\Users\Fernando Yuji\source\repos\Atvd 2 - CalcSimples\Atvd 2 - CalcSimples\obj\Debug\Atvd 2 - CalcSimples.csprojAssemblyReference.cache
+C:\Users\Fernando Yuji\source\repos\Atvd 2 - CalcSimples\Atvd 2 - CalcSimples\obj\Debug\Atvd_2___CalcSimples.Form1.resources
+C:\Users\Fernando Yuji\source\repos\Atvd 2 - CalcSimples\Atvd 2 - CalcSimples\obj\Debug\Atvd_2___CalcSimples.Properties.Resources.resources
+C:\Users\Fernando Yuji\source\repos\Atvd 2 - CalcSimples\Atvd 2 - CalcSimples\obj\Debug\Atvd 2 - CalcSimples.csproj.GenerateResource.cache
+C:\Users\Fernando Yuji\source\repos\Atvd 2 - CalcSimples\Atvd 2 - CalcSimples\obj\Debug\Atvd 2 - CalcSimples.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Yuji\source\repos\Atvd 2 - CalcSimples\Atvd 2 - CalcSimples\obj\Debug\Atvd 2 - CalcSimples.exe
+C:\Users\Fernando Yuji\source\repos\Atvd 2 - CalcSimples\Atvd 2 - CalcSimples\obj\Debug\Atvd 2 - CalcSimples.pdb
