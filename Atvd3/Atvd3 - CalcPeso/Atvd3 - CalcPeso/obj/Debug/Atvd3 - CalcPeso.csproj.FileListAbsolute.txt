@@ -1,0 +1,10 @@
+C:\Users\Fernando Yuji\source\repos\Atvd3 - CalcPeso\Atvd3 - CalcPeso\bin\Debug\Atvd3 - CalcPeso.exe.config
+C:\Users\Fernando Yuji\source\repos\Atvd3 - CalcPeso\Atvd3 - CalcPeso\bin\Debug\Atvd3 - CalcPeso.exe
+C:\Users\Fernando Yuji\source\repos\Atvd3 - CalcPeso\Atvd3 - CalcPeso\bin\Debug\Atvd3 - CalcPeso.pdb
+C:\Users\Fernando Yuji\source\repos\Atvd3 - CalcPeso\Atvd3 - CalcPeso\obj\Debug\Atvd3 - CalcPeso.csprojAssemblyReference.cache
+C:\Users\Fernando Yuji\source\repos\Atvd3 - CalcPeso\Atvd3 - CalcPeso\obj\Debug\Atvd3___CalcPeso.Form1.resources
+C:\Users\Fernando Yuji\source\repos\Atvd3 - CalcPeso\Atvd3 - CalcPeso\obj\Debug\Atvd3___CalcPeso.Properties.Resources.resources
+C:\Users\Fernando Yuji\source\repos\Atvd3 - CalcPeso\Atvd3 - CalcPeso\obj\Debug\Atvd3 - CalcPeso.csproj.GenerateResource.cache
+C:\Users\Fernando Yuji\source\repos\Atvd3 - CalcPeso\Atvd3 - CalcPeso\obj\Debug\Atvd3 - CalcPeso.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Yuji\source\repos\Atvd3 - CalcPeso\Atvd3 - CalcPeso\obj\Debug\Atvd3 - CalcPeso.exe
+C:\Users\Fernando Yuji\source\repos\Atvd3 - CalcPeso\Atvd3 - CalcPeso\obj\Debug\Atvd3 - CalcPeso.pdb
