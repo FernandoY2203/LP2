@@ -1,0 +1,10 @@
+C:\Users\Yuji PC\Downloads\source\repos\Atvd5 - Desconto\Atvd5 - Desconto\bin\Debug\Atvd5 - Desconto.exe.config
+C:\Users\Yuji PC\Downloads\source\repos\Atvd5 - Desconto\Atvd5 - Desconto\bin\Debug\Atvd5 - Desconto.exe
+C:\Users\Yuji PC\Downloads\source\repos\Atvd5 - Desconto\Atvd5 - Desconto\bin\Debug\Atvd5 - Desconto.pdb
+C:\Users\Yuji PC\Downloads\source\repos\Atvd5 - Desconto\Atvd5 - Desconto\obj\Debug\Atvd5 - Desconto.csprojAssemblyReference.cache
+C:\Users\Yuji PC\Downloads\source\repos\Atvd5 - Desconto\Atvd5 - Desconto\obj\Debug\Atvd5___Desconto.Form1.resources
+C:\Users\Yuji PC\Downloads\source\repos\Atvd5 - Desconto\Atvd5 - Desconto\obj\Debug\Atvd5___Desconto.Properties.Resources.resources
+C:\Users\Yuji PC\Downloads\source\repos\Atvd5 - Desconto\Atvd5 - Desconto\obj\Debug\Atvd5 - Desconto.csproj.GenerateResource.cache
+C:\Users\Yuji PC\Downloads\source\repos\Atvd5 - Desconto\Atvd5 - Desconto\obj\Debug\Atvd5 - Desconto.csproj.CoreCompileInputs.cache
+C:\Users\Yuji PC\Downloads\source\repos\Atvd5 - Desconto\Atvd5 - Desconto\obj\Debug\Atvd5 - Desconto.exe
+C:\Users\Yuji PC\Downloads\source\repos\Atvd5 - Desconto\Atvd5 - Desconto\obj\Debug\Atvd5 - Desconto.pdb
