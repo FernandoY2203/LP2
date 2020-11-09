@@ -1,0 +1,24 @@
+C:\Users\Yuji PC\Downloads\source\repos\Atvd6 - Menu e Metodos\Atvd6 - Menu e Metodos\bin\Debug\Atvd6 - Menu e Metodos.exe.config
+C:\Users\Yuji PC\Downloads\source\repos\Atvd6 - Menu e Metodos\Atvd6 - Menu e Metodos\bin\Debug\Atvd6 - Menu e Metodos.exe
+C:\Users\Yuji PC\Downloads\source\repos\Atvd6 - Menu e Metodos\Atvd6 - Menu e Metodos\bin\Debug\Atvd6 - Menu e Metodos.pdb
+C:\Users\Yuji PC\Downloads\source\repos\Atvd6 - Menu e Metodos\Atvd6 - Menu e Metodos\obj\Debug\Atvd6 - Menu e Metodos.csprojAssemblyReference.cache
+C:\Users\Yuji PC\Downloads\source\repos\Atvd6 - Menu e Metodos\Atvd6 - Menu e Metodos\obj\Debug\Atvd6___Menu_e_Metodos.formPrincipal.resources
+C:\Users\Yuji PC\Downloads\source\repos\Atvd6 - Menu e Metodos\Atvd6 - Menu e Metodos\obj\Debug\Atvd6___Menu_e_Metodos.Properties.Resources.resources
+C:\Users\Yuji PC\Downloads\source\repos\Atvd6 - Menu e Metodos\Atvd6 - Menu e Metodos\obj\Debug\Atvd6 - Menu e Metodos.csproj.GenerateResource.cache
+C:\Users\Yuji PC\Downloads\source\repos\Atvd6 - Menu e Metodos\Atvd6 - Menu e Metodos\obj\Debug\Atvd6 - Menu e Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Yuji PC\Downloads\source\repos\Atvd6 - Menu e Metodos\Atvd6 - Menu e Metodos\obj\Debug\Atvd6 - Menu e Metodos.exe
+C:\Users\Yuji PC\Downloads\source\repos\Atvd6 - Menu e Metodos\Atvd6 - Menu e Metodos\obj\Debug\Atvd6 - Menu e Metodos.pdb
+C:\Users\Yuji PC\source\repos\Atvd6 - Menu e Metodos\Atvd6 - Menu e Metodos\obj\Debug\Atvd6 - Menu e Metodos.csprojAssemblyReference.cache
+C:\Users\Yuji PC\source\repos\Atvd6 - Menu e Metodos\Atvd6 - Menu e Metodos\obj\Debug\Atvd6___Menu_e_Metodos.frmExercicio2.resources
+C:\Users\Yuji PC\source\repos\Atvd6 - Menu e Metodos\Atvd6 - Menu e Metodos\obj\Debug\Atvd6___Menu_e_Metodos.frmExercicio3.resources
+C:\Users\Yuji PC\source\repos\Atvd6 - Menu e Metodos\Atvd6 - Menu e Metodos\obj\Debug\Atvd6___Menu_e_Metodos.frmExercicio4.resources
+C:\Users\Yuji PC\source\repos\Atvd6 - Menu e Metodos\Atvd6 - Menu e Metodos\obj\Debug\Atvd6___Menu_e_Metodos.frmExercicio5.resources
+C:\Users\Yuji PC\source\repos\Atvd6 - Menu e Metodos\Atvd6 - Menu e Metodos\obj\Debug\Atvd6___Menu_e_Metodos.formPrincipal.resources
+C:\Users\Yuji PC\source\repos\Atvd6 - Menu e Metodos\Atvd6 - Menu e Metodos\obj\Debug\Atvd6___Menu_e_Metodos.Properties.Resources.resources
+C:\Users\Yuji PC\source\repos\Atvd6 - Menu e Metodos\Atvd6 - Menu e Metodos\obj\Debug\Atvd6 - Menu e Metodos.csproj.GenerateResource.cache
+C:\Users\Yuji PC\source\repos\Atvd6 - Menu e Metodos\Atvd6 - Menu e Metodos\obj\Debug\Atvd6 - Menu e Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Yuji PC\source\repos\Atvd6 - Menu e Metodos\Atvd6 - Menu e Metodos\obj\Debug\Atvd6 - Menu e Metodos.exe
+C:\Users\Yuji PC\source\repos\Atvd6 - Menu e Metodos\Atvd6 - Menu e Metodos\obj\Debug\Atvd6 - Menu e Metodos.pdb
+C:\Users\Yuji PC\source\repos\Atvd6 - Menu e Metodos\Atvd6 - Menu e Metodos\bin\Debug\Atvd6 - Menu e Metodos.exe.config
+C:\Users\Yuji PC\source\repos\Atvd6 - Menu e Metodos\Atvd6 - Menu e Metodos\bin\Debug\Atvd6 - Menu e Metodos.exe
+C:\Users\Yuji PC\source\repos\Atvd6 - Menu e Metodos\Atvd6 - Menu e Metodos\bin\Debug\Atvd6 - Menu e Metodos.pdb
