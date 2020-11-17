@@ -1,0 +1,10 @@
+C:\Users\Yuji PC\source\repos\P0030482011010\P0030482011010\bin\Debug\P0030482011010.exe.config
+C:\Users\Yuji PC\source\repos\P0030482011010\P0030482011010\bin\Debug\P0030482011010.exe
+C:\Users\Yuji PC\source\repos\P0030482011010\P0030482011010\bin\Debug\P0030482011010.pdb
+C:\Users\Yuji PC\source\repos\P0030482011010\P0030482011010\obj\Debug\P0030482011010.csprojAssemblyReference.cache
+C:\Users\Yuji PC\source\repos\P0030482011010\P0030482011010\obj\Debug\P0030482011010.Form1.resources
+C:\Users\Yuji PC\source\repos\P0030482011010\P0030482011010\obj\Debug\P0030482011010.Properties.Resources.resources
+C:\Users\Yuji PC\source\repos\P0030482011010\P0030482011010\obj\Debug\P0030482011010.csproj.GenerateResource.cache
+C:\Users\Yuji PC\source\repos\P0030482011010\P0030482011010\obj\Debug\P0030482011010.csproj.CoreCompileInputs.cache
+C:\Users\Yuji PC\source\repos\P0030482011010\P0030482011010\obj\Debug\P0030482011010.exe
+C:\Users\Yuji PC\source\repos\P0030482011010\P0030482011010\obj\Debug\P0030482011010.pdb
