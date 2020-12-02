@@ -1,0 +1,14 @@
+C:\Users\Yuji PC\source\repos\Atvd7\Atvd7\bin\Debug\Atvd7.exe.config
+C:\Users\Yuji PC\source\repos\Atvd7\Atvd7\bin\Debug\Atvd7.exe
+C:\Users\Yuji PC\source\repos\Atvd7\Atvd7\bin\Debug\Atvd7.pdb
+C:\Users\Yuji PC\source\repos\Atvd7\Atvd7\obj\Debug\Atvd7.csprojAssemblyReference.cache
+C:\Users\Yuji PC\source\repos\Atvd7\Atvd7\obj\Debug\Atvd7.frmExercicio1.resources
+C:\Users\Yuji PC\source\repos\Atvd7\Atvd7\obj\Debug\Atvd7.frmExercicio2.resources
+C:\Users\Yuji PC\source\repos\Atvd7\Atvd7\obj\Debug\Atvd7.frmExercicio3.resources
+C:\Users\Yuji PC\source\repos\Atvd7\Atvd7\obj\Debug\Atvd7.frmExercicio4.resources
+C:\Users\Yuji PC\source\repos\Atvd7\Atvd7\obj\Debug\Atvd7.frmPrincipal.resources
+C:\Users\Yuji PC\source\repos\Atvd7\Atvd7\obj\Debug\Atvd7.Properties.Resources.resources
+C:\Users\Yuji PC\source\repos\Atvd7\Atvd7\obj\Debug\Atvd7.csproj.GenerateResource.cache
+C:\Users\Yuji PC\source\repos\Atvd7\Atvd7\obj\Debug\Atvd7.csproj.CoreCompileInputs.cache
+C:\Users\Yuji PC\source\repos\Atvd7\Atvd7\obj\Debug\Atvd7.exe
+C:\Users\Yuji PC\source\repos\Atvd7\Atvd7\obj\Debug\Atvd7.pdb
