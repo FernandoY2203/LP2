@@ -1,0 +1,12 @@
+C:\Users\Yuji PC\source\repos\PF_ 0030482011010\PF_ 0030482011010\bin\Debug\PF_ 0030482011010.exe.config
+C:\Users\Yuji PC\source\repos\PF_ 0030482011010\PF_ 0030482011010\bin\Debug\PF_ 0030482011010.exe
+C:\Users\Yuji PC\source\repos\PF_ 0030482011010\PF_ 0030482011010\bin\Debug\PF_ 0030482011010.pdb
+C:\Users\Yuji PC\source\repos\PF_ 0030482011010\PF_ 0030482011010\obj\Debug\PF_ 0030482011010.csprojAssemblyReference.cache
+C:\Users\Yuji PC\source\repos\PF_ 0030482011010\PF_ 0030482011010\obj\Debug\PF__0030482011010.Properties.Resources.resources
+C:\Users\Yuji PC\source\repos\PF_ 0030482011010\PF_ 0030482011010\obj\Debug\PF_ 0030482011010.csproj.GenerateResource.cache
+C:\Users\Yuji PC\source\repos\PF_ 0030482011010\PF_ 0030482011010\obj\Debug\PF_ 0030482011010.csproj.CoreCompileInputs.cache
+C:\Users\Yuji PC\source\repos\PF_ 0030482011010\PF_ 0030482011010\obj\Debug\PF_ 0030482011010.exe
+C:\Users\Yuji PC\source\repos\PF_ 0030482011010\PF_ 0030482011010\obj\Debug\PF_ 0030482011010.pdb
+C:\Users\Yuji PC\source\repos\PF_ 0030482011010\PF_ 0030482011010\obj\Debug\PF__0030482011010.frmPrincipal.resources
+C:\Users\Yuji PC\source\repos\PF_ 0030482011010\PF_ 0030482011010\obj\Debug\PF__0030482011010.frmCidade.resources
+C:\Users\Yuji PC\source\repos\PF_ 0030482011010\PF_ 0030482011010\obj\Debug\PF__0030482011010.frmSobre.resources
